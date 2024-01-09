@@ -1,37 +1,7 @@
 <h1 align="center"> Reversing Write-Ups </h1>
 
-<img align="right" heigth="220" width="220" src="https://i.imgur.com/4SdB78W.gif"/>
+<img align="right" heigth="220" width="220" src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5"/>
 
 <p>
- Welcome to my reverse engineering study journey, here is my collection of all challenges that I found and resolve for having fun and learn more about this field that I'm really passionate.
+ These Write-ups was make for my computer architecture classes on college - this shows my evolution in reverse engineering along a year  - unfortunately it's just available in portuguese
 </p>
-
-<p>
- I will put on the repository the sample analyzed and the Write-Up( in .pdf and on the README of each repository)
-</p>
-
-<p>
-  If you want to send some challenge for me to solve, have some tip or resource to I study, or want to ask some question, please check my profile and contact me
-</p>
-
-<h2>Tools</h2>
-
-<p>
- As long as I use the tools I will putting here on the list and putting on the description of the Write-Ups too:
- <h3>Reversing Tools</h3>
- <ul>
-  <li>IDA (Disassembler & Debugger)</li>
- </ul> 
-</p>
-
-<h2>Write-Ups</h2>
-
-<h3> Crackmes.one </h3>
-<ul>
- <li>
-  <h4>Very Easy</h4>
-  <ul>
-   <li><a href="https://github.com/Tricta/Reversing-Write-Ups/tree/main/crackmes.one/Hidden%20MessageBox%20-%20liaqbit32">qbit32's Hidden MessageBox</a></li>
-  </ul>
- </li>
-</ul>
